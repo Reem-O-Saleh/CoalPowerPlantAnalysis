@@ -1,0 +1,1 @@
+This repository includes my R files, powerpoint of key findings, and documentation of steps for a project I did using global coal power plant data from the Global Energy Monitor. My project primarily focused on the power capacity and status of these plants from two different datasets. I also created an interactive map to visualize the locations of all the power plants. 
